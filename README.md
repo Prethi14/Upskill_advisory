@@ -20,9 +20,11 @@ The system consists of four main components:
 - **AI Components:** Ollama for local LLM inference, SentenceTransformers for embeddings
 - **Database:** MongoDB Atlas with vector search capabilities
 
-<img width="1500" height="1125" alt="svgviewer-png-output" src="https://github.com/user-attachments/assets/d0dd7656-2096-48b0-a389-af54cb63d1c0" />
+<img width="1500" height="1125" alt="svgviewer-png-output" src="https://github.com/user-attachments/assets/8f615163-1ca5-44a6-af4f-349c91527f0a" />
 
-![user_journey](https://github.com/user-attachments/assets/17291907-5398-44db-b0ef-80ba946b50e0)
+
+![user_journey](https://github.com/user-attachments/assets/714b11be-f5c6-4f40-b438-101e705f9387)
+
 
 ---
 
