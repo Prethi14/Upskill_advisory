@@ -60,7 +60,7 @@ Create a `.env` file in the root directory:
 
 ```env
 # MongoDB Configuration
-MONGODB_CONNECTION_STRING=mongodb+srv://username:password@cluster.mongodb.net/
+MONGODB_CONNECTION_STRING = mongodb_URL
 MONGODB_DB=upskill_advisor
 MONGODB_COLLECTION=courses
 
